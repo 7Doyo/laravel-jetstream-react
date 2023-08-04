@@ -7,4 +7,4 @@
 	✔️ TailwindCss
 
 
-# If You really want the default UI then go change -> All Vue Components to react (see Welcome.jsx)
+- If You really want the default UI then go change -> All Vue Components to react (see Welcome.jsx)
